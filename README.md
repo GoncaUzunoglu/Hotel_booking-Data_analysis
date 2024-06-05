@@ -4,10 +4,10 @@ Bu proje, otel rezervasyon verilerini analiz etmeyi amaçlamaktadır. Veriseti, 
 # Veriseti Bilgileri
 Veriseti aşağıdaki sütunları içermektedir:
 
-hotel: Otel türü (City Hotel veya Resort Hotel).
-is_canceled: Rezervasyonun iptal edilip edilmediği (1: Evet, 0: Hayır).
-lead_time: Rezervasyon ile giriş tarihi arasındaki gün sayısı.
-arrival_date_year: Giriş yılı.
+-hotel: Otel türü (City Hotel veya Resort Hotel).
+-is_canceled: Rezervasyonun iptal edilip edilmediği (1: Evet, 0: Hayır).
+-lead_time: Rezervasyon ile giriş tarihi arasındaki gün sayısı.
+-arrival_date_year: Giriş yılı.
 arrival_date_month: Giriş ayı.
 arrival_date_week_number: Giriş haftası numarası.
 arrival_date_day_of_month: Giriş gün sayısı.
