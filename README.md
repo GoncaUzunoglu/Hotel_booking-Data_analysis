@@ -44,16 +44,13 @@ Veriseti aşağıdaki sütunları içermektedir:
 Bu bölümde, Hotel Booking verisetine ait Power BI görselleştirmeleri yer almaktadır.
 
 ### 1. Hotel Booking Genel Bakış
-![Otel Türüne Göre İptal Oranları](C:\Users\Uzunoglu\Desktop\Capture1.PNG)
 
 ### 2. Hotel Kategorilerinin Dağılımı
-![Giriş Ayına Göre Rezervasyon Dağılımları](path/to/your/image2.png)
 
 ### 3. Rezervasyon Dağılımı
-![Ortalama Günlük Fiyat (ADR)](path/to/your/image3.png)
 
 ### 4. Misafirlerin Dağılımı
-![Pazar Segmentlerine Göre Rezervasyon Dağılımları](path/to/your/image4.png)
+
 
 
 
