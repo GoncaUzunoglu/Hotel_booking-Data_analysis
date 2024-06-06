@@ -39,4 +39,23 @@ Veriseti aşağıdaki sütunları içermektedir:
 - `reservation_status`: Rezervasyon durumu.
 - `reservation_status_date`: Rezervasyon durumu tarihi.
 
+## Power BI Görselleştirmeleri
+
+Bu bölümde, Hotel Booking verisetine ait Power BI görselleştirmeleri yer almaktadır.
+
+### 1. Otel Türüne Göre İptal Oranları
+![Otel Türüne Göre İptal Oranları](path/to/your/image1.png)
+
+### 2. Giriş Ayına Göre Rezervasyon Dağılımları
+![Giriş Ayına Göre Rezervasyon Dağılımları](path/to/your/image2.png)
+
+### 3. Ortalama Günlük Fiyat (ADR)
+![Ortalama Günlük Fiyat (ADR)](path/to/your/image3.png)
+
+### 4. Pazar Segmentlerine Göre Rezervasyon Dağılımları
+![Pazar Segmentlerine Göre Rezervasyon Dağılımları](path/to/your/image4.png)
+
+
+
+
 
