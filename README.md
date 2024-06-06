@@ -47,11 +47,13 @@ Bu bölümde, Hotel Booking verisetine ait Power BI görselleştirmeleri yer alm
 ![Capture1](https://github.com/GoncaUzunoglu/Hotel_booking-Data_analysis/assets/170716152/bdeefc5f-bf9a-44b1-827a-868464cdfcf7)
 
 ### 2. Hotel Kategorilerinin Dağılımı
+![Capture2](https://github.com/GoncaUzunoglu/Hotel_booking-Data_analysis/assets/170716152/e59d1a17-9755-4199-b928-309cb53281fa)
 
 ### 3. Rezervasyon Dağılımı
+![Capture3](https://github.com/GoncaUzunoglu/Hotel_booking-Data_analysis/assets/170716152/b5a0dab8-035d-4839-8531-6f9f795d2b7d)
 
 ### 4. Misafirlerin Dağılımı
-
+![Capture4](https://github.com/GoncaUzunoglu/Hotel_booking-Data_analysis/assets/170716152/02d02a36-5089-414c-b0bb-333b2ac63698)
 
 
 
