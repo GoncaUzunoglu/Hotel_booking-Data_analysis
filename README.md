@@ -1,10 +1,10 @@
-# Hotel Booking Veriseti Analizi
+# Hotel Booking POWER BI Analizi
 
 Bu proje, otel rezervasyon verilerini analiz etmeyi amaçlamaktadır. Veriseti, otel rezervasyonlarına ilişkin çeşitli bilgileri içermektedir.
 
-## Veriseti Bilgileri
+## Veri seti Bilgileri
 
-Veriseti aşağıdaki sütunları içermektedir:
+Veri seti aşağıdaki sütunları içermektedir:
 
 - `hotel`: Otel türü (City Hotel veya Resort Hotel).
 - `is_canceled`: Rezervasyonun iptal edilip edilmediği (1: Evet, 0: Hayır).
