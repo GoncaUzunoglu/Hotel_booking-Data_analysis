@@ -44,6 +44,7 @@ Veriseti aşağıdaki sütunları içermektedir:
 Bu bölümde, Hotel Booking verisetine ait Power BI görselleştirmeleri yer almaktadır.
 
 ### 1. Hotel Booking Genel Bakış
+![Capture1](https://github.com/GoncaUzunoglu/Hotel_booking-Data_analysis/assets/170716152/bdeefc5f-bf9a-44b1-827a-868464cdfcf7)
 
 ### 2. Hotel Kategorilerinin Dağılımı
 
